@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactspavideo/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reactspavideo/static/js/main.2b4a8002.chunk.js",
-    "main.js.map": "/reactspavideo/static/js/main.2b4a8002.chunk.js.map",
+    "main.css": "/reactspavideo/static/css/main.fe7aa7dd.chunk.css",
+    "main.js": "/reactspavideo/static/js/main.7b0dbb2e.chunk.js",
+    "main.js.map": "/reactspavideo/static/js/main.7b0dbb2e.chunk.js.map",
     "runtime-main.js": "/reactspavideo/static/js/runtime-main.0f4a3c2b.js",
     "runtime-main.js.map": "/reactspavideo/static/js/runtime-main.0f4a3c2b.js.map",
     "static/js/2.459e40a9.chunk.js": "/reactspavideo/static/js/2.459e40a9.chunk.js",
@@ -10,15 +10,17 @@
     "static/js/3.0f609732.chunk.js": "/reactspavideo/static/js/3.0f609732.chunk.js",
     "static/js/3.0f609732.chunk.js.map": "/reactspavideo/static/js/3.0f609732.chunk.js.map",
     "index.html": "/reactspavideo/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/reactspavideo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.fe7aa7dd.chunk.css.map": "/reactspavideo/static/css/main.fe7aa7dd.chunk.css.map",
     "static/js/2.459e40a9.chunk.js.LICENSE.txt": "/reactspavideo/static/js/2.459e40a9.chunk.js.LICENSE.txt",
+    "static/media/laptop.dba99cf0.svg": "/reactspavideo/static/media/laptop.dba99cf0.svg",
     "static/media/logo.6ce24c58.svg": "/reactspavideo/static/media/logo.6ce24c58.svg",
+    "static/media/question.ff9b5147.svg": "/reactspavideo/static/media/question.ff9b5147.svg",
     "static/media/video1.e9e7b332.mp4": "/reactspavideo/static/media/video1.e9e7b332.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.0f4a3c2b.js",
     "static/js/2.459e40a9.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2b4a8002.chunk.js"
+    "static/css/main.fe7aa7dd.chunk.css",
+    "static/js/main.7b0dbb2e.chunk.js"
   ]
 }
